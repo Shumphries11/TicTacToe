@@ -35,3 +35,7 @@
 .right {
     border-left: 1px blue solid;
 }
+
+.reset {
+    text-align: center;
+}
